@@ -1,10 +1,10 @@
 # study-reactNative-Redux
 
 <h1>React-Native , Redux 쇼핑리스트 CRUD</h1>
-<br><br><br>
-<h2> 
+<br>
+<h3> 
   개발환경
-</h2>
+</h3>
 <p>React-native , Node.js , Redux , Expo</p>
 <p>
   쇼핑리스트 작성 및 체크시 구매 완료 탭으로 이동 , 삭제버튼 클릭시 삭제<br>
