@@ -1,6 +1,6 @@
 # study-reactNative-Redux
 
-<h1>React-Native , Redux를 사용하여 쇼핑리스트 CRUD 토이 프로젝트</h1>
+<h1>React-Native , Redux 쇼핑리스트 CRUD 토이 프로젝트</h1>
 <br><br><br>
 <h2> 
   개발환경
