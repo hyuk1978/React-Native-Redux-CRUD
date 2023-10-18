@@ -19,3 +19,6 @@
 <p align="center">
   <img width="30%" src="https://github.com/hyuk1978/study-reactNative-Redux/assets/118143937/d3cb18a3-e803-4b99-aa67-f5c66db0e16f">
 </p>
+
+https://github.com/hyuk1978/React-Native-Redux-CRUD/assets/118143937/6cd378c6-1fda-4fa9-8188-bd7137a8fc29
+
